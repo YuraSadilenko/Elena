@@ -26,7 +26,7 @@ _Fonts:_
  
  PT Sans regular and bold;
  
- Nexa reular and bold;
+ Nexa regular and bold;
  
  Cabin;
  
