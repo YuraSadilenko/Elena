@@ -19,11 +19,17 @@ There are 3 css files:
 
 _Fonts:_ 
 --- 
+
  Ubuntu;
+ 
  Belinda;
+ 
  PT Sans regular and bold;
+ 
  Nexa reular and bold;
+ 
  Cabin;
+ 
  
 All fonts you can find free online.
 
